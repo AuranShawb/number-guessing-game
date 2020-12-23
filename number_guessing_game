@@ -1,6 +1,6 @@
 import random
 import math
-lower = int(input("Emter lower number:- ")) 
+lower = int(input("Enter lower number:- ")) 
 
 upper = int(input("Enter upper number :- "))  
 
